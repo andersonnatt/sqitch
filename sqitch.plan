@@ -1,0 +1,4 @@
+%syntax-version=1.0.0
+%project=flipr
+
+appschema 2022-01-23T02:17:09Z Nat Anderson <nanderson@knockcrm.com> # add schema for all flipr objects
